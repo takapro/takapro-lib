@@ -1,0 +1,19 @@
+{
+  "name": "takapro-lib",
+  "version": "1.0.0",
+  "description": "a sample js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takapro/takapro-lib.git"
+  },
+  "author": "Takanori Hoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takapro/takapro-lib/issues"
+  },
+  "homepage": "https://github.com/takapro/takapro-lib#readme"
+}
