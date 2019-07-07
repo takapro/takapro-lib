@@ -1,6 +1,6 @@
 {
   "name": "takapro-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a sample js library",
   "main": "index.js",
   "scripts": {
