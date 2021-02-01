@@ -1,3 +1,3 @@
 # takapro-lib
 
-a sample js library
+a sample react library written in typescript
